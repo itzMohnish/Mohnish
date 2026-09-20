@@ -264,3 +264,8 @@
             top: 40%;
             left: 25%;
         }
+
+        .cimg:hover {
+            transform: scale(1.055) translateY(-5px);
+            transition: 0.5s ease-in-out;
+        }
